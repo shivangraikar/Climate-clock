@@ -1,0 +1,261 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 198}, {931, 62}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "3BAF2847-08EA-4A84-957C-3A36F6691439",
+          "font_size" : 17,
+          "background_color" : "RGBA(1.000000,0.765957,0.765957,1.000000)",
+          "frame" : "{{412, 284}, {200, 200}}",
+          "editable" : true,
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "textview2",
+          "flex" : "WH"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 85}, {931, 53}}",
+        "class" : "Label",
+        "attributes" : {
+          "uuid" : "054CA81E-C96D-4F90-A238-A98065EE3B18",
+          "background_color" : "RGBA(1.000000,0.369565,0.369565,1.000000)",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "alignment" : "center",
+          "text_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "alpha" : 1,
+          "text" : "TIME LEFT TO LIMIT GLOBAL WARMING TO 1.5 C",
+          "font_name" : "AppleSDGothicNeo-Heavy",
+          "class" : "Label",
+          "name" : "label1",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{546, 318}, {436, 53}}",
+        "class" : "Label",
+        "attributes" : {
+          "text" : "LAND PROTECTED BY INDIGENOUS POEPLE",
+          "name" : "label2",
+          "text_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "custom_attributes" : "",
+          "background_color" : "RGBA(0.163265,0.721088,1.000000,1.000000)",
+          "uuid" : "C071730A-40BC-41E3-89FB-FD751938482F",
+          "class" : "Label",
+          "alignment" : "center",
+          "font_size" : 18,
+          "font_name" : "AppleSDGothicNeo-Heavy"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 318}, {434, 54}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label3",
+          "text_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "B2DCC5DE-81CC-42FE-85A7-A2744FD59ADD",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "GREEN CLIMATE FUND",
+          "background_color" : "RGBA(0.265306,1.000000,0.755102,1.000000)",
+          "font_size" : 18,
+          "font_name" : "AppleSDGothicNeo-Heavy"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 486}, {436, 54}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label4",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "BDAE2030-3DBA-4995-BDBC-7A117C11A5DB",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "WORLD’S ENERGY FROM RENEWABLES",
+          "background_color" : "RGBA(1.000000,0.530612,0.843537,1.000000)",
+          "font_size" : 18,
+          "font_name" : "AppleSDGothicNeo-Heavy"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 146}, {931, 62}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "618FB585-A695-40CF-ACAC-9AE801A15F49",
+          "font_size" : 17,
+          "background_color" : "RGBA(1.000000,0.760870,0.760870,1.000000)",
+          "frame" : "{{412, 284}, {200, 200}}",
+          "border_color" : "RGBA(0.197852,0.226806,0.197852,1.000000)",
+          "editable" : true,
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "text" : "",
+          "alpha" : 1,
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "textview1",
+          "flex" : "WH"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{780, 18}, {202, 44}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "103DD142-5CE2-4984-8C99-4BC02902850D",
+          "class" : "Label",
+          "alignment" : "right",
+          "text" : "",
+          "name" : "label5",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 380}, {434, 58}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "C6A69ADA-7A9C-433A-9D4E-E122E9FA0907",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "background_color" : "RGBA(1.000000,0.760870,0.760870,1.000000)",
+          "name" : "label6",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{546, 380}, {434, 58}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "C6A69ADA-7A9C-433A-9D4E-E122E9FA0907",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "background_color" : "RGBA(1.000000,0.760870,0.760870,1.000000)",
+          "font_size" : 18,
+          "name" : "label7"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{53, 548}, {434, 58}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "C6A69ADA-7A9C-433A-9D4E-E122E9FA0907",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "background_color" : "RGBA(1.000000,0.760870,0.760870,1.000000)",
+          "font_size" : 18,
+          "name" : "label8"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{546, 486}, {434, 54}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "259D38E7-9759-4397-8584-A3FD28A2F0E6",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "NEWSFEED",
+          "background_color" : "RGBA(1.000000,0.666667,0.500000,1.000000)",
+          "name" : "label9",
+          "font_name" : "AppleSDGothicNeo-Heavy"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{546, 548}, {438, 58}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label10",
+          "number_of_lines" : 0,
+          "flex" : "WH",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "FDB0C619-2DE8-480C-AEAE-4630F0CD832C",
+          "background_color" : "RGBA(1.000000,0.804348,0.804348,1.000000)",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "custom_class" : "",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,0.893617,0.893617,1.000000)",
+      "name" : "",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
